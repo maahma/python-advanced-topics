@@ -1,15 +1,15 @@
 # Decorators without annotation
 def my_decorator(function):
-        
         def wrapper():
-            function()
             print("I am decorating your function")
+            function()  # Call the original function after the decoration
         return wrapper
 
 def hello_maaha():
     print("hello maaha")
 
-my_decorator(hello_maaha)()
+decorated_function = my_decorator(hello_maaha)
+decorated_function()
 
 # -------------------------------------------------------------------------
 
@@ -17,8 +17,8 @@ my_decorator(hello_maaha)()
 def my_decorator(function):
         
         def wrapper():
-            function()
             print("I am decorating your function")
+            function()
         return wrapper
 
 @my_decorator
@@ -33,8 +33,8 @@ hello_maaha()
 def my_decorator(function):
         
         def wrapper(*args, **kwargs):
-            function(*args, **kwargs)
             print("I am decorating your function")
+            function(*args, **kwargs)
         return wrapper
 
 @my_decorator
@@ -50,9 +50,9 @@ hello_maaha("Lets learn Python today")
 def my_decorator(function):
         
         def wrapper(*args, **kwargs):
+            print("I am decorating your function")
             return_stmt = function(*args, **kwargs)
             print(return_stmt)
-            print("I am decorating your function")
         return wrapper
 
 @my_decorator
