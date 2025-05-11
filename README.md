@@ -8,10 +8,10 @@ Learning and practicing advanced python topics
 - [Advanced Python Tutorials from learnpython.org](https://www.learnpython.org/#:~:text=what%20you%27ve%20learned-,Advanced%20Tutorials,-Generators)
 
 ### Topics to learn
-- [x] Decorators
-- [ ] Closures
-- [ ] Generators
-- [ ] Iter tools
+- [x] [Decorators](https://github.com/maahma/python-advanced-topics/tree/main/Decorators)
+- [x] [Closures](https://github.com/maahma/python-advanced-topics/tree/main/Closures)
+- [x] Generators
+- [x] Iter tools
 - [ ] List Comprehension
 - [ ] Lambda Functions
 - [ ] Sets
