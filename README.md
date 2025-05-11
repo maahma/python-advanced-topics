@@ -2,6 +2,11 @@
 
 Learning and practicing advanced python topics
 
+### Resources used
+- [Neural Nine Python Advanced Tutorials Playlist](https://www.youtube.com/playlist?list=PL7yh-TELLS1FuqLSjl5bgiQIEH25VEmIc)
+- [Patrick Loeber Advanced Python - Complete Course Playlist](https://www.youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2)
+- [Advanced Python Tutorials from learnpython.org](https://www.learnpython.org/#:~:text=what%20you%27ve%20learned-,Advanced%20Tutorials,-Generators)
+
 ### Topics to learn
 - [x] Decorators
 - [ ] Closures
