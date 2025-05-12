@@ -1,6 +1,6 @@
 # Python Advanced topics
 
-Learning and practicing advanced python topics
+Learning and practicing advanced Python topics
 
 ### Resources used
 - [Neural Nine Python Advanced Tutorials Playlist](https://www.youtube.com/playlist?list=PL7yh-TELLS1FuqLSjl5bgiQIEH25VEmIc)
@@ -10,8 +10,8 @@ Learning and practicing advanced python topics
 ### Topics to learn
 - [x] [Decorators](https://github.com/maahma/python-advanced-topics/tree/main/Decorators)
 - [x] [Closures](https://github.com/maahma/python-advanced-topics/tree/main/Closures)
-- [x] Generators
-- [x] Iter tools
+- [x] [Generators](https://github.com/maahma/python-advanced-topics/tree/main/Generators)
+- [x] [Iter tools](https://github.com/maahma/python-advanced-topics/tree/main/itertools)
 - [ ] List Comprehension
 - [ ] Lambda Functions
 - [ ] Sets
