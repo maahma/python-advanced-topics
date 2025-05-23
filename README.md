@@ -12,32 +12,32 @@ Learning and practicing advanced Python topics
 - [x] [Closures](https://github.com/maahma/python-advanced-topics/tree/main/Closures)
 - [x] [Generators](https://github.com/maahma/python-advanced-topics/tree/main/Generators)
 - [x] [Iter tools](https://github.com/maahma/python-advanced-topics/tree/main/itertools)
-- [ ] List Comprehension
-- [ ] Lambda Functions
-- [ ] Sets
+- [x] [List Comprehension](https://github.com/maahma/python-advanced-topics/tree/main/List-Comprehension)
+- [x] [Lambda Functions](https://github.com/maahma/python-advanced-topics/tree/main/Lambda-Functions)
+- [x] [Map, Filter, Reduce](https://github.com/maahma/python-advanced-topics/tree/main/Map,Filter,Reduce)
+- [x] [Sets](https://github.com/maahma/python-advanced-topics/tree/main/Sets)
+- [x] [Magic Functions/Dunder Methods](https://github.com/maahma/python-advanced-topics/tree/main/Magic-Functions)
+- [x] [Multiple Function Arguments](https://github.com/maahma/python-advanced-topics/tree/main/Multiple-Function-Args)
+- [x] [Shallow vs Deep Copying](https://github.com/maahma/python-advanced-topics/tree/main/Copying)
 - [ ] Collections
 - [ ] Serialization
+- [ ] Threading
+- [ ] Multiprocessing
 - [ ] JSON in Python
 - [ ] Parsing CSV Files
-- [ ] Shallow vs Deep Copying
-- [ ] Map, Filter, Reduce
-- [ ] Magic Functions and Dunder Methods
-- [ ] Multiple Function Arguments
 - [ ] Asterisk
 - [ ] Regular Expressions
 - [ ] Exception Handling
 - [ ] Encapsulation 
 - [ ] Type Hinting
 - [ ] Partial Functions
-- [ ] Threading
-- [ ] Multiprocessing
 - [ ] Context Managers
-- [ ] Factory Design Pattern
-- [ ] Singleton Design Pattern
-- [ ] Composite Design Pattern
 - [ ] Logging
 - [ ] Code Introspection
 - [ ] Argument Parsing
+<!-- - [ ] Factory Design Pattern
+- [ ] Singleton Design Pattern
+- [ ] Composite Design Pattern -->
 
 ### Exercises for practicing
 #### 1️⃣ **Decorators and Closures**
